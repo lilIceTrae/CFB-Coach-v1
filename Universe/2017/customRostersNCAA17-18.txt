@@ -180,12 +180,12 @@ Alabama,Alex Leatherwood,OL,1,7
 Alabama,Jedrick Wills,OL,1,7
 Alabama,Josh Casher,OL,3,7
 Alabama,Deonte Brown,OL,1,7
-Alabama,Jalen Hurts,QB,2,8
+Alabama,Jalen Hurts,QB,2,10
 Alabama,Tua Tagovailoa,QB,1,8
 Alabama,Mac Jones,QB,1,6
 Alabama,Bo Scarbrough,RB,3,10
-Alabama,Damien Harris,RB,3,9
-Alabama,Najee Harris,RB,1,8
+Alabama,Derrick Henry,RB,3,10
+Alabama,Najee Harris,RB,1,10
 Alabama,Joshua Jacobs,RB,2,7
 Alabama,Brian Robinson,RB,1,7
 Alabama,Minkah Fitzpatrick,S,3,10
@@ -465,11 +465,11 @@ Army,Andy Davidson,RB,3,7
 Army,Jordan Asberry,RB,3,6
 Army,Darnell Woolfolk,RB,3,5
 Army,Kell Walker,RB,2,5
-Army,John Trainor,RB,4,4
-Army,Kevin Hicks,RB,2,4
-Army,Malik Mcgue,RB,2,4
-Army,Connor Slomka,RB,2,4
-Army,Calen Holt,RB,3,4
+Army,John Trainor,RB,4,10
+Army,Kevin Hicks,RB,2,10
+Army,Malik Mcgue,RB,2,10
+Army,Connor Slomka,RB,2,10
+Army,Calen Holt,RB,3,10
 Army,Rhyan England,S,4,5
 Army,Gibby Gibson,S,3,4
 Army,Ryan Velez,S,2,4
@@ -1146,7 +1146,7 @@ Central Florida,Luke Palmer,OL,3,4
 Central Florida,Charles Sprenkel,OL,4,4
 Central Florida,Jake Brown,OL,2,4
 Central Florida,Samuel Jackson,OL,1,4
-Central Florida,Mckenzie Milton,QB,2,6
+Central Florida,Mckenzie Milton,QB,2,10
 Central Florida,Darriel Mack,QB,1,4
 Central Florida,Noah Vedral,QB,1,4
 Central Florida,Jawon Hamilton,RB,2,7
@@ -1557,7 +1557,7 @@ Duke,Trip Mcneill,OL,3,5
 Duke,Rakavius Chambers,OL,1,5
 Duke,Robert Kraeling,OL,1,5
 Duke,Jacob Rimmer,OL,1,4
-Duke,Daniel Jones,QB,2,7
+Duke,Daniel Jones,QB,2,10
 Duke,Parker Boehme,QB,4,5
 Duke,Quentin Harris,QB,2,5
 Duke,Chris Katrenick,QB,1,4
@@ -1727,7 +1727,7 @@ Eastern Michigan,Lemar Harris,WR,3,3
 Florida,Duke Dawson,CB,4,10
 Florida,Joseph Putu,CB,4,7
 Florida,Marco Wilson,CB,1,6
-Florida,CJ Henderson,CB,1,6
+Florida,CJ Henderson,CB,1,10
 Florida,Cj Mcwilliams,CB,1,5
 Florida,Brian Edwards,CB,1,5
 Florida,Jabari Zuniga,DL,2,9
@@ -1745,7 +1745,7 @@ Florida,Kyree Campbell,DL,1,6
 Florida,Jordan Smith,DL,1,6
 Florida,Eddy Pineiro,K,3,9
 Florida,Johnny Townsend,K,4,9
-Florida,David Reese,LB,2,8
+Florida,David Reese,LB,2,9
 Florida,Kylan Johnson,LB,2,7
 Florida,Vosean Joseph,LB,2,6
 Florida,Jeremiah Moon,LB,1,6
@@ -1764,18 +1764,18 @@ Florida,Antonio Riles,OL,4,6
 Florida,Stone Forsythe,OL,1,6
 Florida,Kavaris Harkless,OL,3,5
 Florida,Nick Buchanan,OL,2,4
-Florida,Malik Zaire,QB,4,7
+Florida,Rex Grossman,QB,4,8
 Florida,Feleipe Franks,QB,1,6
 Florida,Luke Delrio,QB,3,6
 Florida,Jake Allen,QB,1,5
 Florida,Jordan Scarlett,RB,3,8
 Florida,Lamical Perine,RB,2,6
-Florida,Mark Thompson,RB,4,6
+Florida,Fred Taylor,RB,4,10
 Florida,Adarius Lemons,RB,1,5
 Florida,Malik Davis,RB,1,5
 Florida,Marcell Harris,S,4,9
 Florida,Nick Washington,S,4,7
-Florida,Chauncey Gardner,S,2,7
+Florida,Chauncey Gardner,S,2,9
 Florida,Brad Stewart,S,1,6
 Florida,Jeawon Taylor,S,2,6
 Florida,Quincy Lenton,S,1,5
@@ -1785,14 +1785,14 @@ Florida,C'yontai Lewis,TE,3,6
 Florida,Kemore Gamble,TE,1,5
 Florida,Moral Stephens,TE,3,5
 Florida,Antonio Callaway,WR,3,10
-Florida,Brandon Powell,WR,4,7
-Florida,Tyrie Cleveland,WR,2,7
-Florida,Dre Massey,WR,3,7
+Florida, Dan Toney,WR,3,9
+Florida,Tyrie Cleveland,WR,2,9
+Florida,Van Jefferson,WR,3,10
 Florida,Josh Hammond,WR,2,6
-Florida,Freddie Swain,WR,2,6
+Florida,Freddie Swain,WR,2,8
 Florida,James Robinson,WR,1,6
 Florida,Daquon Green,WR,1,6
-Florida,Kadarius Toney,WR,1,6
+Florida,Kadarius Toney,WR,1,9
 Florida Atl,Raekwon Williams,CB,4,6
 Florida Atl,Shelton Lewis,CB,3,5
 Florida Atl,Herb Miller,CB,3,5
@@ -1965,7 +1965,7 @@ Florida State,James Blackman,QB,1,5
 Florida State,Bailey Hockman,QB,1,5
 Florida State,JJ Cosentino,QB,3,5
 Florida State,Jacques Patrick,RB,3,7
-Florida State,Cam Akers,RB,1,6
+Florida State,Cam Akers,RB,1,10
 Florida State,Khalan Laborn,RB,1,6
 Florida State,Ryan Green,RB,4,6
 Florida State,Zaquandre White,RB,1,6
@@ -2100,13 +2100,13 @@ Georgia,Kendall Baker,OL,3,7
 Georgia,Pat Allen,OL,2,7
 Georgia,Chris Barnes,OL,1,6
 Georgia,Jacob Eason,QB,2,9
-Georgia,Jake Fromm,QB,1,9
+Georgia,Jake Fromm,QB,1,10
 Georgia,Brice Ramsey,QB,4,7
 Georgia,Nick Chubb,RB,4,10
-Georgia,Sony Michel,RB,4,10
+Georgia,Sony Michel,RB,4,9
 Georgia,Christian Payne,RB,4,8
-Georgia,D'andre Swift,RB,1,7
-Georgia,Elijah Holyfield,RB,2,7
+Georgia,D'andre Swift,RB,1,10
+Georgia,Elijah Holyfield,RB,2,9
 Georgia,Brian Herrien,RB,2,7
 Georgia,Dominick Sanders,S,4,10
 Georgia,Richard Lecounte,S,1,7
@@ -3136,7 +3136,7 @@ LSU,Jakori Savage,OL,1,6
 LSU,Danny Etling,QB,4,8
 LSU,Myles Brennan,QB,1,7
 LSU,Justin Mcmillan,QB,2,7
-LSU,Lowell Narcisse,QB,1,6
+LSU,Joey Burrow,QB,1,10
 LSU,Derrius Guice,RB,3,10
 LSU,Darrel Williams,RB,4,9
 LSU,Bry'kietho Mouton,RB,3,7
@@ -3824,8 +3824,8 @@ Mississippi State,Michael Story,OL,2,5
 Mississippi State,Greg Eiland,OL,1,5
 Mississippi State,Ronald Cochran,OL,3,5
 Mississippi State,Dareuan Parker,OL,1,4
-Mississippi State,Nick Fitzgerald,QB,3,8
-Mississippi State,Keytaon Thompson,QB,1,6
+Mississippi State,Michael Trubisky,QB,3,10
+Mississippi State,Michtell Trubisky,QB,1,9
 Mississippi State,Logan Burnett,QB,1,4
 Mississippi State,Aeris Williams,RB,3,7
 Mississippi State,Kylin Hill,RB,1,6
@@ -4059,15 +4059,15 @@ NC State,Maurice Trowell,WR,3,5
 NC State,Jakobi Meyers,WR,2,5
 NC State,Emeka Emezie,WR,1,5
 Nebraska,Chris Jones,CB,4,9
-Nebraska,Lamar Jackson,CB,2,7
-Nebraska,Eric Lee,CB,2,6
+Nebraska,Lamar Jackson,CB,2,9
+Nebraska,Eric Lee,CB,2,10
 Nebraska,Dicaprio Bootle,CB,1,5
-Nebraska,Tony Butler,CB,1,5
+Nebraska,Tony Butler,CB,1,9
 Nebraska,Jeremiah Stovall,CB,2,5
-Nebraska,Freedom Akinmoladun,DL,3,7
-Nebraska,Mick Stoltenberg,DL,3,7
-Nebraska,Carlos Davis,DL,2,6
-Nebraska,Peyton Newell,DL,3,6
+Nebraska,Freedom Akinmoladun,DL,3,9
+Nebraska,Mick Stoltenberg,DL,3,9
+Nebraska,Carlos Davis,DL,2,9
+Nebraska,Peyton Newell,DL,3,7
 Nebraska,Khalil Davis,DL,2,6
 Nebraska,Daishon Neal,DL,2,6
 Nebraska,Ben Stille,DL,1,6
@@ -4076,12 +4076,12 @@ Nebraska,Damion Daniels,DL,1,5
 Nebraska,Drew Brown,K,4,9
 Nebraska,Caleb Lightbourn,K,2,6
 Nebraska,Cole Frahm,K,1,4
-Nebraska,Dedrick Young,LB,3,7
+Nebraska,Dedrick Young,LB,3,10
 Nebraska,Marcus Newby,LB,4,7
-Nebraska,Chris Weber,LB,4,7
+Nebraska,Chris Weber,LB,4,9
 Nebraska,Luke Gifford,LB,3,7
 Nebraska,Alex Davis,LB,2,6
-Nebraska,Avery Roberts,LB,1,6
+Nebraska,Avery Roberts,LB,1,9
 Nebraska,Mohamed Barry,LB,2,6
 Nebraska,Tyrin Ferguson,LB,2,6
 Nebraska,Sedrick King,LB,3,6
@@ -4580,7 +4580,7 @@ Notre Dame,Aaron Banks,OL,1,7
 Notre Dame,Trevor Ruhland,OL,2,7
 Notre Dame,Dillan Gibbons,OL,1,6
 Notre Dame,Brandon Wimbush,QB,2,8
-Notre Dame,Ian Book,QB,1,7
+Notre Dame,Ian Book,QB,1,9
 Notre Dame,Avery Davis,QB,1,7
 Notre Dame,Josh Adams,RB,3,8
 Notre Dame,Dexter Williams,RB,3,7
@@ -4725,8 +4725,8 @@ Ohio State,JT Barrett,QB,4,9
 Ohio State,Joe Burrow,QB,2,7
 Ohio State,Dwayne Haskins,QB,1,7
 Ohio State,Tate Martell,QB,1,7
-Ohio State,Mike Weber,RB,2,9
-Ohio State,JK Dobbins,RB,1,7
+Ohio State,Mike Weber,RB,2,10
+Ohio State,JK Dobbins,RB,1,10
 Ohio State,Demario Mccall,RB,2,7
 Ohio State,Antonio Williams,RB,2,7
 Ohio State,Damon Webb,S,4,10
