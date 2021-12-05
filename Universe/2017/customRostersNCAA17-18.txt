@@ -1005,7 +1005,7 @@ BYU,Chandon Herring,OL,1,3
 BYU,Addison Pulspiher,OL,2,3
 BYU,Kieffer Longson,OL,1,3
 BYU,Austin Chambers,OL,1,3
-BYU,Tanner Mangum,QB,3,6
+BYU,Zach Wilson,QB,3,10
 BYU,Beau Hoge,QB,2,4
 BYU,Koy Detmer,QB,2,4
 BYU,Squally Canada,RB,3,5
@@ -3064,7 +3064,7 @@ Louisville,Robbie Bell,OL,1,5
 Louisville,Nathan Scheler,OL,3,5
 Louisville,Toryque Bateman,OL,1,5
 Louisville,Toriano Roundtree,OL,4,5
-Louisville,Lamar Jackson,QB,3,9
+Louisville,Lamar Jackson,QB,4,10
 Louisville,Jawon Pass,QB,1,6
 Louisville,Malik Cunningham,QB,1,5
 Louisville,Reggie Bonnafon,RB,4,8
@@ -4067,14 +4067,14 @@ Nebraska,Jeremiah Stovall,CB,2,5
 Nebraska,Freedom Akinmoladun,DL,3,9
 Nebraska,Mick Stoltenberg,DL,3,9
 Nebraska,Carlos Davis,DL,2,9
-Nebraska,Peyton Newell,DL,3,7
+Nebraska,Peyton Newell,DL,3,10
 Nebraska,Khalil Davis,DL,2,6
 Nebraska,Daishon Neal,DL,2,6
-Nebraska,Ben Stille,DL,1,6
+Nebraska,Ben Stille,DL,1,10
 Nebraska,Deontre Thomas,DL,1,5
 Nebraska,Damion Daniels,DL,1,5
 Nebraska,Drew Brown,K,4,9
-Nebraska,Caleb Lightbourn,K,2,6
+Nebraska,Caleb Lightbourn,K,2,10
 Nebraska,Cole Frahm,K,1,4
 Nebraska,Dedrick Young,LB,3,10
 Nebraska,Marcus Newby,LB,4,7
@@ -4100,7 +4100,7 @@ Nebraska,Brenden Jaimes,OL,1,6
 Nebraska,Matt Sichterman,OL,1,5
 Nebraska,Tanner Lee,QB,3,8
 Nebraska,Patrick O'brien,QB,1,7
-Nebraska,Tristan Gebbia,QB,1,6
+Nebraska,Tristan Gebbia,QB,1,9
 Nebraska,Luke Mcnitt,RB,4,7
 Nebraska,Devine Ozigbo,RB,3,6
 Nebraska,Tre Bryant,RB,2,6
@@ -4688,14 +4688,14 @@ Ohio State,Amir Riep,CB,1,7
 Ohio State,Tyquan Lewis,DL,4,10
 Ohio State,Sam Hubbard,DL,3,10
 Ohio State,Nick Bosa,DL,2,10
-Ohio State,Dre'mont Jones,DL,2,9
+Ohio State,Joey Bosa,DL,2,10
 Ohio State,Michael Hill,DL,4,9
 Ohio State,Jalyn Holmes,DL,4,9
 Ohio State,Tracy Sprinkle,DL,4,8
 Ohio State,Robert Landers,DL,2,7
 Ohio State,Jashon Cornell,DL,2,7
 Ohio State,Jonathon Cooper,DL,1,7
-Ohio State,Chase Young,DL,1,7
+Ohio State,Chase Young,DL,1,10
 Ohio State,Haskell Garrett,DL,1,7
 Ohio State,Drue Chrisman,K,1,8
 Ohio State,Sean Nuernberger,K,3,7
@@ -4722,9 +4722,8 @@ Ohio State,Gavin Cupp,OL,1,6
 Ohio State,Joshua Alabi,OL,2,6
 Ohio State,Thayer Munford,OL,1,6
 Ohio State,JT Barrett,QB,4,9
-Ohio State,Joe Burrow,QB,2,7
-Ohio State,Dwayne Haskins,QB,1,7
-Ohio State,Tate Martell,QB,1,7
+Ohio State,Dwayne Haskins,QB,3,10
+Ohio State,Justin Fields,QB,1,10
 Ohio State,Mike Weber,RB,2,10
 Ohio State,JK Dobbins,RB,1,10
 Ohio State,Demario Mccall,RB,2,7
@@ -4791,7 +4790,7 @@ Oklahoma,Creed Humphrey,OL,1,6
 Oklahoma,Marquis Hayes,OL,1,6
 Oklahoma,Baker Mayfield,QB,4,10
 Oklahoma,Kyler Murray,QB,2,8
-Oklahoma,Austin Kendall,QB,2,7
+Oklahoma,Austin Kendall,QB,1,7
 Oklahoma,Connor Mcginnis,QB,2,6
 Oklahoma,Dimitri Flowers,RB,4,9
 Oklahoma,Rodney Anderson,RB,2,8
@@ -4812,7 +4811,7 @@ Oklahoma,Jeff Badet,WR,4,9
 Oklahoma,Jeffery Mead,WR,4,8
 Oklahoma,Marquise Brown,WR,2,8
 Oklahoma,Nick Basquine,WR,4,7
-Oklahoma,Ceedee Lamb,WR,1,10
+Oklahoma,Ethan Moore,WR,1,10
 Oklahoma,Mykel Jones,WR,2,7
 Oklahoma,Jordan Smallwood,WR,4,7
 Oklahoma,Charleston Rambo,WR,1,7
@@ -4862,9 +4861,9 @@ Oklahoma State,Mason Rudolph,QB,4,10
 Oklahoma State,Taylor Cornelius,QB,3,7
 Oklahoma State,John Kolar,QB,2,7
 Oklahoma State,Keondre Wudtee,QB,1,6
-Oklahoma State,Justice Hill,RB,2,10
+Oklahoma State,Justice Hill,RB,1,9
 Oklahoma State,Ja'ron Wilson,RB,1,7
-Oklahoma State,Chuba Hubbard,RB,1,6
+Oklahoma State,Chuba Hubbard,RB,1,10
 Oklahoma State,La'darren Brown,RB,1,6
 Oklahoma State,JD King,RB,1,5
 Oklahoma State,Tre Flowers,S,4,10
@@ -4999,7 +4998,7 @@ Oregon,George Moore,OL,2,7
 Oregon,Brady Aiello,OL,2,6
 Oregon,Zach Okun,OL,2,6
 Oregon,Jacob Capra,OL,1,6
-Oregon,Justin Herbert,QB,2,8
+Oregon,Justin Herbert,QB,2,10
 Oregon,Braxton Burmeister,QB,1,6
 Oregon,Taylor Alie,QB,4,6
 Oregon,Royce Freeman,RB,4,10
@@ -5137,7 +5136,7 @@ Penn State,Michal Menet,OL,1,7
 Penn State,Will Fries,OL,1,7
 Penn State,Alex Gellerstedt,OL,1,6
 Penn State,CJ Thorpe,OL,1,6
-Penn State,Trace Mcsorley,QB,3,9
+Penn State,Trace Mcsorley,QB,2,10
 Penn State,Tommy Stevens,QB,2,7
 Penn State,Sean Clifford,QB,1,7
 Penn State,Saquon Barkley,RB,3,10
@@ -6172,7 +6171,7 @@ Tennessee,Riley Locklear,OL,1,5
 Tennessee,Nathan Niehaus,OL,1,5
 Tennessee,Jarrett Guarantano,QB,1,7
 Tennessee,Quinten Dormady,QB,3,7
-Tennessee,Will Mcbride,QB,1,5
+Tennessee,Will Mcbride,QB,1,9
 Tennessee,John Kelly,RB,3,7
 Tennessee,Ty Chandler,RB,1,6
 Tennessee,Carlin Fils-aime,RB,2,6
@@ -6240,7 +6239,7 @@ Texas,Garrett Thomas,OL,2,5
 Texas,Alex Anderson,OL,3,5
 Texas,Derek Kerstetter,OL,1,5
 Texas,Shane Buechele,QB,2,7
-Texas,Sam Ehlinger,QB,1,6
+Texas,Sam Ehlinger,QB,4,9
 Texas,Josh Covey,QB,2,4
 Texas,Chris Warren,RB,3,8
 Texas,Kyle Porter,RB,2,6
@@ -6306,7 +6305,7 @@ Texas AM,Riley Anderson,OL,1,6
 Texas AM,Brayden Talbert,OL,2,5
 Texas AM,Ryan Mccollum,OL,1,5
 Texas AM,Jared Hocker,OL,1,4
-Texas AM,Kellen Mond,QB,1,6
+Texas AM,Kellen Mond,QB,1,8
 Texas AM,Nick Starkel,QB,1,6
 Texas AM,Jake Hubenak,QB,4,6
 Texas AM,Connor Blumrick,QB,1,5
@@ -6928,9 +6927,9 @@ USC,Roy Hemsley,OL,2,7
 USC,Andrew Vorhees,OL,1,7
 USC,Clayton Johnston,OL,2,7
 USC,Brett Neilon,OL,1,7
-USC,Sam Darnold,QB,2,10
-USC,Matt Fink,QB,1,7
-USC,Jack Sears,QB,1,7
+USC,Sam Darnold,QB,4,10
+USC,Matt Fink,QB,1,9
+USC,Jack Sears,QB,1,8
 USC,Ronald Jones,RB,3,10
 USC,Stephen Carr,RB,1,8
 USC,Aca'cedric Ware,RB,3,8
